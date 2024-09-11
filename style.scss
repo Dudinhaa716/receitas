@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+   // padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-size: 25px;
+    background-color: burlywood;
+    font-family: "Montserrat", sans-serif;
+}
+img{
+    width: 97vw;
+    height: 60vh;
+    margin: 10px;
+}
+
+ul{
+    margin: 20px;
+}
+
+h1{
+    font-family: "Montagu Slab", serif;
+    color: brown;
+}
+
+main{
+    // um valor sera aplicado para os quatro lados
+    //padding; 20px
+    // 2 valores serao aplicados para
+    // primeiro valor top, bottom, segundo para dois lados
+    //padding: 20px 10px 80px 0;
+    // top, left, bottom, rigth
+padding-left: 20px;
+}
